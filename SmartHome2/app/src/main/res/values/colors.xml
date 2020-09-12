@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00CCCC</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#010D38</color>
+    <color name="colorWhite">#E7E8EC</color>
+    <color name="colorOffWhite">#B8BCCA</color>
+    <style name="mySwitch">
+        <item name="android:colorControlActivated">@android:color/white</item>
+    </style>
+</resources>
